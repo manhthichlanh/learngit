@@ -4,4 +4,6 @@ try {
     console.log(error)
 }
 
-function testDuplicate() {}
+function testDuplicate() {
+    console.log("THIS IS MY TEST");
+}
