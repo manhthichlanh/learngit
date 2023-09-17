@@ -1,1 +1,3 @@
 console.log("Đây là chức năng đăng ký")
+
+function test2() {}
