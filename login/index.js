@@ -5,5 +5,5 @@ try {
 }
 
 function testDuplicate() {
-    console.log("THIS IS MY TEST");
+    console.log("THIS IS MY TEST2");
 }
