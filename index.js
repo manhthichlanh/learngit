@@ -1,0 +1,1 @@
+console.log("1 chức năng mới hay một component mới");
