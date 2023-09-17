@@ -5,6 +5,11 @@ try {
 }
 
 function testDuplicate() {
+    console.log("THIS IS MY TEST");
+    return () => {
+      console.log("hello")
+    }
+    
     console.log("THIS IS MY TEST2");
 }
 
