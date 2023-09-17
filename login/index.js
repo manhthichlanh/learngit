@@ -3,3 +3,5 @@ try {
 } catch (error) {
     console.log(error)
 }
+
+function testDuplicate() {}
