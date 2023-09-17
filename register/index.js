@@ -1,5 +1,5 @@
 console.log("Đây là chức năng đăng ký")
 
 function test2() {
-    console.log("THIS")
+    console.log("THIS TEST")
 }
