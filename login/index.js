@@ -10,7 +10,6 @@ function testDuplicate() {
       console.log("hello")
     }
     
-    console.log("THIS IS MY TEST2");
 }
 
 function testDuplicate2() {
