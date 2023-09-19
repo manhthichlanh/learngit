@@ -12,6 +12,8 @@ function testDuplicate() {
     
 }
 
+console.log("hello")
+
 function testDuplicate2() {
     console.log("Test duplicate 2");
 }
