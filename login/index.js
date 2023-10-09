@@ -3,3 +3,17 @@ try {
 } catch (error) {
     console.log(error)
 }
+
+function testDuplicate() {
+    console.log("THIS IS MY TEST");
+    return () => {
+      console.log("hello")
+    }
+    
+}
+
+console.log("hello")
+
+function testDuplicate2() {
+    console.log("Test duplicate 2");
+}
